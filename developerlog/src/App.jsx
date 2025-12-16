@@ -10,7 +10,7 @@ import Resume from './pages/Resume'
 function App() {
   return (
     <Router>
-      <div className="hero"> Maya N. Huggins-Jordan | Sales Development Representative </div>
+      <div className="hero"> Maya N. Huggins-Jordan  </div>
       <nav className="navbar">
         <ul>
           <li><Link to="/">Home</Link></li>
