@@ -4,7 +4,7 @@ import profileImg from '../assets/MayaHJ.jpg'
 export default function Home() {
   return (
     <div className="home-main">
-      <h2 id="main-title">WELCOME: i.c stars Evolution|Stars Align My Journey Through Business, Leadership and Technology Development Log</h2>
+      <h2 id="main-title">WELCOME: i.c Stars Evolution|Stars Align My Journey Through Business, Leadership and Technology Development Log</h2>
       <div className="about-center">
         <img className="profile-img" src={profileImg} alt="Mayaheadshot"/>
         <section>
