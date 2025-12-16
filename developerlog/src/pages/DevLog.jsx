@@ -3,7 +3,7 @@ import LogCard from '../components/LogCard'
 export default function DevLog() {
   return (
     <div>
-      <h2>Development Log</h2>
+      <h2>Development Log</h2> 
       {/* Dev log entries will be moved here */}
       <LogCard Logtitle="Where Business Meets: Technology, Leadership, and Wellness " date="2025-09-07" entryNumber="1" >"Through i.c stars, I have transformed from a results driven salesperson into a purpose driven technologist. Balancing leadership, wellness, business strategy, and technical skill to create meaningful impact."</LogCard>
       <LogCard Logtitle="My Journey Begins: From Sales Scripts to Code Scripts" date="2025-10-07" entryNumber="2" >"I started my career mastering the art of connection learning how to listen, persuade and work with teams in sales. Through i.c stars, I have learned to apply that same energy to technology. Connecting systems,data,and people."</LogCard>
